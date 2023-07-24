@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9cd504f0.css",
+    "main.js": "/static/js/main.3e5c8ade.js",
+    "static/media/party.jpg": "/static/media/party.d8dc153c0139898c103b.jpg",
+    "static/media/BG_Image.png": "/static/media/BG_Image.6e3300ed7afdd49b4935.png",
+    "static/media/relax.jpg": "/static/media/relax.458c1f2e1f996a03e800.jpg",
+    "static/media/bike.jpg": "/static/media/bike.e63e35ca3e9882acf18c.jpg",
+    "static/media/job.jpg": "/static/media/job.728d3dc0c809769dd6a4.jpg",
+    "static/media/retreat.jpg": "/static/media/retreat.96b5f05197dc819a7aa5.jpg",
+    "static/media/sport.jpg": "/static/media/sport.dc8cd28a33b53a771235.jpg",
+    "index.html": "/index.html",
+    "main.9cd504f0.css.map": "/static/css/main.9cd504f0.css.map",
+    "main.3e5c8ade.js.map": "/static/js/main.3e5c8ade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9cd504f0.css",
+    "static/js/main.3e5c8ade.js"
+  ]
+}
